@@ -11,7 +11,7 @@ Client to https://github.com/bnwlkr/304db
 
 *If errors come up you may have to manually install react-bootstrap and react-router-dom by running:
 
-`$ npm install --save react-bootstrap`
+`$ npm install --save react-bootstrap`  
 `$ npm install --save react-router-dom`
 
 Happy hacking!!
